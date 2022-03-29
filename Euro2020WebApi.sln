@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euro2020WebApi", "Euro2020WebApi\Euro2020WebApi.csproj", "{CDE632ED-B85B-4A19-AD97-5D2E6022AAAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDE632ED-B85B-4A19-AD97-5D2E6022AAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE632ED-B85B-4A19-AD97-5D2E6022AAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE632ED-B85B-4A19-AD97-5D2E6022AAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE632ED-B85B-4A19-AD97-5D2E6022AAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D854E900-F33E-4C15-953A-89EA392E2DF3}
+	EndGlobalSection
+EndGlobal
